@@ -1,9 +1,6 @@
-README [![Build Status](https://travis-ci.org/simplonco/rails-scraping-mechanize.svg?branch=master)](https://travis-ci.org/simplonco/rails-scraping-mechanize)
-======
+# [Ruby on Rails App with Mechanize](https://rubygems.org/gems/mechanize) [![Build Status](https://travis-ci.org/simplonco/rails-scraping-mechanize.svg?branch=master)](https://travis-ci.org/simplonco/rails-scraping-mechanize)
 
-## [Ruby on Rails App with Mechanize](https://rubygems.org/gems/mechanize)
-
-### Steps to get the application up and running:
+## Steps to get the application up and running:
 * Create an app for webscraping
 ```
 rails new scraper
