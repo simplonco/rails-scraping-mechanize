@@ -13,8 +13,8 @@ cd scraper
 ```
 rails generate controller welcome_index
 ```
-* Edit your index in  app/views/welcome/index.html.erb
-* Edit config/routes.rb: 
+* Edit your index in `app/views/welcome/index.html.erb`
+* Edit `config/routes.rb`: 
 ```
 root 'welcome#index'
 ```
